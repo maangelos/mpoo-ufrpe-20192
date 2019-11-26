@@ -1,3 +1,5 @@
 # mpoo-ufrpe-201992
 
-Branch da entrega do cadastro: https://github.com/maangelos/wanderlust-app/entrega-cadastro
+##Entrega individual do cadastro: https://github.com/maangelos/wanderlust-app
+
+Branch: entrega-cadastro
